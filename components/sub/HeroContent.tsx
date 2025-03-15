@@ -45,7 +45,7 @@ const HeroContent = () => {
               {" "}
               Web Through{" "}
             </span>
-            Mordern Tech !!
+            Modern Tech !!
           </span>
         </motion.div>
 
