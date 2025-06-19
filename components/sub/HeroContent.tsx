@@ -13,7 +13,7 @@ import Image from "next/image";
 const HeroContent = () => {
   const handleSumbit = () => {
     window.open(
-      "https://drive.google.com/file/d/13w-FeXDf1E6rt_dFsqT_MVou643N1__T/view?usp=sharing",
+      "https://drive.google.com/file/d/1nvGZ3xWE4Uuz-T8LwlNU0ZzDsiYaJl9Y/view?usp=sharing",
       "_blank"
     );
   };
